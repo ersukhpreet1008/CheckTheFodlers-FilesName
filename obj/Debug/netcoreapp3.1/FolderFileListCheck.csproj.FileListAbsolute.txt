@@ -1,0 +1,13 @@
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.csprojAssemblyReference.cache
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.exe
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.deps.json
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.runtimeconfig.json
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.runtimeconfig.dev.json
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.dll
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\bin\Debug\netcoreapp3.1\FolderFileListCheck.pdb
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.dll
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.pdb
+D:\DEVELOPMENT\C#\CheckFolderFiles\FolderFileListCheck\obj\Debug\netcoreapp3.1\FolderFileListCheck.genruntimeconfig.cache
